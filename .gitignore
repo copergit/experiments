@@ -6,3 +6,4 @@ id_rsa.pub
 *.log
 *.exe
 DEADJOE
+.ipynb_checkpoints
