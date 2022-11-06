@@ -7,9 +7,36 @@
    viewBox="0 0 210 120"
    version="1.1"
    id="svg5"
+   sodipodi:docname="non_colinear_motion_1.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:export-filename="/home/mosa/Sources/Scuola/copernico_udine/esperimenti/experiments/sound/non_colinear_motion.png"
+   inkscape:export-xdpi="400"
+   inkscape:export-ydpi="400"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.3090909"
+     inkscape:cx="348.18898"
+     inkscape:cy="351.87008"
+     inkscape:window-width="3840"
+     inkscape:window-height="2089"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     width="200mm" />
   <defs
      id="defs2">
     <marker
@@ -17,7 +44,9 @@
        id="Arrow2Lend"
        refX="0"
        refY="0"
-       orient="auto">
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
       <path
          transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
@@ -29,7 +58,9 @@
        id="Arrow1Lend"
        refX="0"
        refY="0"
-       orient="auto">
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
       <path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
@@ -41,7 +72,9 @@
        id="Arrow2Lstart"
        refX="0"
        refY="0"
-       orient="auto">
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
       <path
          transform="matrix(1.1,0,0,1.1,1.1,0)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
@@ -190,11 +223,14 @@
     </g>
   </defs>
   <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
      id="layer1">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05833, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
        d="M 89.632083,105.93544 172.89721,41.474859"
-       id="path14099" />
+       id="path14099"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Lstart)"
        d="M 3.4949316,58.861932 H 198.17324"
@@ -205,6 +241,7 @@
        x="5.6150031"
        y="55.316628"
        id="text1499"><tspan
+         sodipodi:role="line"
          id="tspan1497"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:garamond;-inkscape-font-specification:garamond;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
          x="5.6150031"
@@ -215,6 +252,7 @@
        x="94.159225"
        y="106.07213"
        id="text1499-3"><tspan
+         sodipodi:role="line"
          id="tspan1497-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:garamond;-inkscape-font-specification:garamond;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
          x="94.159225"
@@ -225,6 +263,7 @@
        x="139.59293"
        y="53.17849"
        id="text1499-3-7"><tspan
+         sodipodi:role="line"
          id="tspan1497-6-5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:garamond;-inkscape-font-specification:garamond;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
          x="139.59293"
@@ -236,6 +275,7 @@
        cy="105.26727"
        r="1.8333334" />
     <g
+       inkscape:label=""
        transform="translate(104.6629,-26.229394)"
        id="g10814">
       <g
@@ -256,7 +296,8 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.793749, 0.793749;stroke-dashoffset:0;stroke-opacity:1"
        d="M 89.810953,10.769879 V 102.86636"
-       id="path10880" />
+       id="path10880"
+       sodipodi:nodetypes="cc" />
     <circle
        style="fill:#f81212;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.79375, 0.79375;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="path11064"
@@ -266,8 +307,10 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:#eb7d0a;stroke-width:0.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="M 148.67777,58.858942 H 121.05726"
-       id="path13283" />
+       id="path13283"
+       sodipodi:nodetypes="cc" />
     <g
+       inkscape:label=""
        transform="matrix(0.57001364,0,0,0.57001364,77.616559,9.6859123)"
        id="g14257">
       <g
@@ -316,6 +359,7 @@
        d="m 149.3857,59.676112 -18.41432,14.27694"
        id="path14446" />
     <g
+       inkscape:label=""
        transform="matrix(0.50695844,0,0,0.50695844,94.135201,31.838141)"
        id="g15348">
       <g
@@ -367,6 +411,7 @@
       </g>
     </g>
     <g
+       inkscape:label=""
        transform="matrix(0.50695844,0,0,0.50695844,92.959004,22.611228)"
        id="g15557">
       <g
