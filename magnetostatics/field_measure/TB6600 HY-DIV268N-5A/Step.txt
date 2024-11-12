@@ -1,0 +1,11 @@
+L'azionamento per impostare il numero di passi per giro del motore è 
+200 (whole step), 
+400 (2 segments),
+1600 (8 segments), 
+3200 steps (16 segments).
+
+- Full Step 	1.8
+- Half Step 	0.9
+- 4x 		0.45
+- 8x 		0.225
+- 16x 		0.112
